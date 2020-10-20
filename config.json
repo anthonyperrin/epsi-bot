@@ -1,0 +1,7 @@
+{
+    "BOT_TOKEN": "",
+
+    "COMMAND_PREFIX": "!",
+
+    "PLANNING_URL": "https://edtmobiliteng.wigorservices.net//WebPsDyn.aspx?action=posEDTBEECOME&serverid=C&Tel={USERNAME}&date={DATE}"
+}

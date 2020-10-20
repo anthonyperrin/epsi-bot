@@ -1,0 +1,27 @@
+{
+  "name": "epsi-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyperrin/epsi-bot.git"
+  },
+  "author": "Midias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyperrin/epsi-bot/issues"
+  },
+  "homepage": "https://github.com/anthonyperrin/epsi-bot#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.4.0",
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
